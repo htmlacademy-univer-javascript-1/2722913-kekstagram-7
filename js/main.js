@@ -54,3 +54,4 @@ const createPhotosArray = () => {
 
 // Генерация массива и сохранение в переменную
 export const photos = createPhotosArray();
+
